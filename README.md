@@ -1,4 +1,4 @@
-👋 Hi, I’m Jordan - 28y.
+👋 Hi, I’m Jordan - 29y.
 I'm a Junior Webdev, living in Bordeaux. 🍇🍷
 
 🌱 I’m currently learning HTLM5, CSS3, JavaScript.
