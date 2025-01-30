@@ -1,8 +1,5 @@
 👋 Hi, I’m Jordan.
-I'm a Junior Webdev, living in Bordeaux. 🍇🍷
-
-🌱 I’m currently learning HTLM5, CSS3, JavaScript.
- 
+I'm a Junior Webdev, living in Bordeaux. 🍇🍷 
  
 📫 How to reach me:
  - jordan.sena21@gmail.com 
