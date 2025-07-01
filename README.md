@@ -1,8 +1,5 @@
 👋 Hi, I’m Jordan.
-I'm a Junior Webdev, living in Bordeaux. 🍇🍷 
- 
-📫 How to reach me:
- - jordan.sena21@gmail.com 
+I'm a Junior Webdev, living in Bordeaux. 🍇🍷  
 
 <!---
 jsena21/jsena21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
